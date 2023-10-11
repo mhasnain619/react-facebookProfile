@@ -1,0 +1,22 @@
+.mainDev {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.InfoDiv {
+    background-color: rebeccapurple;
+    height: 500px;
+    width: 800px;
+    border-radius: 10px;
+
+}
+
+.profile {
+    display: flex;
+    justify-content: center;
+}
+
+.proImg>img {
+    border-radius: 50px;
+}

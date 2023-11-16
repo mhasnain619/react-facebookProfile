@@ -28,7 +28,7 @@ const post = [
         "name": "Naila",
         "description": "Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft.",
         "gender": "women",
-        "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "image": "https://avatars.githubusercontent.com/u/123479909?v=4",
 
     }
 ]

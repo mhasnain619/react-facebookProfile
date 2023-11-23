@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react'
-import hannu from '../hannu.jpg'
+import hannu from 'https://avatars.githubusercontent.com/u/123479909?v=4'
 import data from '../api'
 function Api() {
     const [pdata, setPdata] = useState([])

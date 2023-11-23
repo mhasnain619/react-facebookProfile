@@ -3,8 +3,6 @@
     border-bottom: 3px solid #F0F2F5;
 }
 
-
-
 .Second-container {
     display: flex;
     justify-content: space-around;
@@ -20,7 +18,7 @@
 
 .Profile-container>img {
     border-radius: 50%;
-    height: 100%;
+    height: 165px;
     width: 165px;
 }
 
@@ -139,7 +137,6 @@
     font-size: 20px;
     height: 40px;
     cursor: pointer;
-    /* margin-right: 75px; */
     font-weight: 900;
     border: none;
     outline: none;
@@ -874,17 +871,10 @@
 
     .three-dot {
         padding-top: 10px;
-        background-color: #e4e6eb;
-        padding: 7px 20px;
-        color: #050505;
         font-size: 20px;
         height: 40px;
         cursor: pointer;
         margin-top: 0px;
-        font-weight: 900;
-        border: none;
-        outline: none;
-        border-radius: 5px;
     }
 
     .hr1 {
@@ -896,7 +886,7 @@
         background-color: #fcfeff;
         border-radius: 10px;
         display: flex;
-        height: 9vh;
+        height: 11vh;
         box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
     }
 
@@ -910,7 +900,7 @@
         margin-top: 15px;
         border-radius: 10px;
         width: 115%;
-        height: 14vh;
+        height: 16vh;
         box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
 
     }
@@ -935,7 +925,7 @@
     .introduction-container {
         background-color: white;
         border-radius: 10px;
-        height: 58vh;
+        height: 66vh;
         margin-bottom: 10px;
         padding: 15px;
         box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
@@ -996,12 +986,7 @@
     }
 
     .whats-your-mind>button {
-        border-radius: 50px;
         padding: 8px 140px 8px 10px;
-        outline: none;
-        border: none;
         height: 5vh;
-        margin-top: 5px;
-        background-color: #eaecf2;
     }
 }
